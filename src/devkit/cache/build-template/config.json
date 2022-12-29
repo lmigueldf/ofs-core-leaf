@@ -1,0 +1,56 @@
+{
+  "appID": "538825448ac54a112csfbd1b10af30dfdfs",
+  "shortName": "-",
+  "title": "-",
+  "modules": {
+    "debug": false,
+    "showSettings": false,
+    "fixedAspectRatio": true,
+    "aspectRatio": 1.8,
+    "dpi": 1,
+    "autoResize": true,
+    "canvasBackgroundColor": "transparent",
+    "engineOpts": {
+      "clearEachFrame": true,
+      "dtFixed": 0,
+      "dtMinimum": 0,
+      "keyListenerEnabled": false,
+      "continuousInputCheck": false,
+      "repaintOnEvent": false,
+      "mergeMoveEvents": false,
+      "alwaysRepaint": true,
+      "noReflow": true,
+      "forceWebGL": {
+        "android": true,
+        "ios": true,
+        "desktop": true
+      }
+    },
+    "gameMode": "Basketball",
+    "developer": "bigpesa",
+    "allowStandalone": true,
+    "appID": "jun3-bask-a25e7cd1-272b",
+    "platform": "HTML5",
+    "plugins": ["oneflag"],
+    "piggyBank": {
+      "prefix": "__cross112018",
+      "storageKey": "2373dasd412"
+    },
+    "build": "0.3.8.0(16022019)",
+    "liveEdit": false,
+    "liveEditServer": "http://localhost:1080/live/reload",
+    "livePid": 1539945556558,
+    "preload":["resources/images/", "resources/images/cricket/"],
+    "scripts": [],
+    "spritesheetsVersion": "0.0.1",
+    "fonts": ["Matics-Regular", "Matics-Bold"],
+    "wait4It": 0,
+    "superGammingUrl": "https://prod.api.super.mgaming.net/api/Data/",
+    "showEndLogo": false,
+    "showEndMessage": true,
+    "endMessage": "Loading...",
+    "endColor": "#6fb739"
+   },
+  "target": "browser-desktop",
+  "splash": {"autoHide": true}
+}

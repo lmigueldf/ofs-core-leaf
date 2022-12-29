@@ -1,0 +1,44 @@
+{
+    "lang": "en",
+    "name": "TEMPLATE_NAME",
+    "short_name": "TEMPLATE_SHORT_NAME",
+    "icons": [
+        {
+            "src": "icons/icons-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icons-64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icons-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "icons/icons-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icons-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "scope": "./",
+    "start_url": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "devkit-core",
+  "author": "Game Closure",
+  "description": "devkit engine",
+  "version": "4.5.3",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gameclosure/devkit-core.git"
+  },
+  "dependencies": {},
+  "scripts": {},
+  "devkit": {
+    "buildTargets": {
+      "browser-desktop": "src/build/targets/browser/"
+    },
+    "clientPaths": {
+      "devkit": "src/clientapi",
+      "*": "src/clientapi/api/"
+    }
+  }
+}

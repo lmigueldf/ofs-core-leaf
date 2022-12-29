@@ -1,0 +1,97 @@
+{
+    "addons": {
+        "debug": true,
+        "showSettings": true,
+        "dpi": 1,
+        "fixedAspectRatio": false,
+        "aspectRatio": null,
+        "autoResize": true,
+        "canvasBackgroundColor": "transparent",
+        "engineOpts": {
+            "clearEachFrame": true,
+            "dtFixed": 0,
+            "dtMinimum": 0,
+            "keyListenerEnabled": false,
+            "continuousInputCheck": true,
+            "repaintOnEvent": false,
+            "mergeMoveEvents": false,
+            "alwaysRepaint": true,
+            "noReflow": true,
+            "forceWebGL": {
+                "android": true,
+                "ios": true,
+                "desktop": true
+            }
+        },
+        "plugins": [
+            "oneflag"
+        ],
+        "piggyBank": {
+            "prefix": "d25a4749-0be6-4401-9c10-facf89e6f4c6",
+            "storageKey": "3ac3ce95-8cfc-4287-b810-ddfe0fd8cb10"
+        },
+        "build": "0.0.1.0(date)",
+        "preload": [
+            "resources/images",
+            "resources/sounds"
+        ],
+        "wait4It": 0,
+        "scripts": [
+            "https://cdn.babylonjs.com/babylon.js",
+            "https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"
+        ],
+        "sounds": {},
+        "extended": {
+            "preloadModels": []
+        },
+        "i18n": {
+            "en-EN": {
+                "title": "My Game"
+            }
+        },
+        "fonts": []
+    },
+    "useWebGL": true,
+    "android": {
+        "icons": {
+            "36": "resources/icons/android36.png",
+            "48": "resources/icons/android48.png",
+            "72": "resources/icons/android72.png",
+            "96": "resources/icons/android96.png",
+            "144": "resources/icons/ios144.png"
+        },
+        "googleTrackingID": "SET_THIS",
+        "GooglePlayID": "SET_THIS",
+        "useAdmob": false,
+        "admobType": "Interstitial",
+        "admobUnitID": "SET_THIS",
+        "useGooglePlay": "true",
+        "useGoogleSave": "true",
+        "versionCode": 1
+    },
+    "appID": "b9bc115882fe4bd3b890ccb855bad2e1",
+    "dependencies": {},
+    "gameHash": "",
+    "icons": "resources/icons/icon512.png",
+    "installShortcut": true,
+    "resources": {},
+    "sdkVersion": "release-0.1.2",
+    "shortName": "BabylonJs",
+    "splash": {
+        "autoHide": true,
+        "universal": "resources/splash/portrait2048.png"
+    },
+    "studio": {
+        "domain": "studio.example.com",
+        "name": "Your Studio Name",
+        "stagingDomain": "staging.example.com"
+    },
+    "supportedOrientations": [
+        "portrait",
+        "landscape"
+    ],
+    "targets": {},
+    "title": "Local builder",
+    "initialImport": "basic",
+    "embeddedFonts": []
+}

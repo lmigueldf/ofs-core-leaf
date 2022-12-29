@@ -1,0 +1,86 @@
+{
+    "addons": {
+        "debug": true,
+        "showSettings": true,
+        "dpi": 1,
+        "fixedAspectRatio": false,
+        "aspectRatio": null,
+        "autoResize": true,
+        "canvasBackgroundColor": "transparent",
+        "engineOpts": {
+            "clearEachFrame": true,
+            "dtFixed": 0,
+            "dtMinimum": 0,
+            "keyListenerEnabled": false,
+            "continuousInputCheck": true,
+            "repaintOnEvent": true,
+            "mergeMoveEvents": false,
+            "alwaysRepaint": true,
+            "noReflow": true,
+            "forceWebGL": {
+                "android": true,
+                "ios": true,
+                "desktop": true
+            }
+        },
+        "plugins": [
+            "oneflag"
+        ],
+        "piggyBank": {
+            "prefix": "__mpl112018",
+            "storageKey": "11233dasd412"
+        },
+        "build": "0.0.1.0(date)",
+        "liveEdit": true,
+        "liveEditServer": "http://localhost:1090/live/reload",
+        "livePid": 1539945556558,
+        "preload": [
+            "resources/images",
+            "resources/sounds"
+        ],
+        "wait4It": 0,
+        "scripts": [],
+        "sounds": {},
+        "extended": {}
+    },
+    "useWebGL": true,
+    "android": {
+        "icons": {
+            "36": "resources/icons/android36.png",
+            "48": "resources/icons/android48.png",
+            "72": "resources/icons/android72.png",
+            "96": "resources/icons/android96.png",
+            "144": "resources/icons/ios144.png"
+        },
+        "googleTrackingID": "SET_THIS",
+        "GooglePlayID": "SET_THIS",
+        "useAdmob": false,
+        "admobType": "Interstitial",
+        "admobUnitID": "SET_THIS",
+        "useGooglePlay": "true",
+        "useGoogleSave": "true",
+        "versionCode": 1
+    },
+    "appID": "650136b569954800aa7798febc5cabe3",
+    "dependencies": {},
+    "gameHash": "",
+    "icons": "resources/icons/icon512.png",
+    "installShortcut": true,
+    "resources": {},
+    "sdkVersion": "release-0.1.2",
+    "shortName": "myGame",
+    "splash": {
+        "autoHide": true,
+        "universal": "resources/splash/portrait2048.png"
+    },
+    "studio": {
+        "domain": "oneflag.com",
+        "name": "One Flag Studio",
+        "stagingDomain": "com.oneflag.myGame"
+    },
+    "supportedOrientations": [
+        "portrait"
+    ],
+    "targets": {},
+    "title": ""
+}

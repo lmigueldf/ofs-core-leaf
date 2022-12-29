@@ -1,0 +1,14 @@
+{
+  "name": "devkit-oneflag",
+  "author": "One Flag Studio",
+  "description": "A powerfull and simple devkit games bootstrap sctructure",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": {},
+  "devkit": {
+    "buildTargets": {},
+    "clientPaths": {
+      "oneflag": "src"
+    }
+  }
+}
