@@ -1,5 +1,5 @@
 ## OneFlagStudio - DevKit Wrapper
-#### HTML5 JavaScript games devkit. Simple, no AI, non-opinionated flow. Your code your rules!
+#### HTML5 JavaScript games devkit. Simple, no AI, non-opinionated flow. Your code, your rules!
 
 This project was developed with focus on native front developers. It strives to be a quick way for developers of any stage to
 quickly jump start a PWA project without fuzz.
